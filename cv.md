@@ -9,7 +9,7 @@ Junior Javascript Developer
 Contact information:
 --------------------
 
-*   Address: Kazakhstan, Nur-Sultan
+*   Address: Kazakhstan, Astana
 *   Phone: 8 776 417 67 69
 *   E-mail: aigerima222toleuova@gmail.com
 *   GitHub: [https://github.com/Aigerima777](https://github.com/Aigerima777)
